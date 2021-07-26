@@ -1,0 +1,6 @@
+FSharp.Core
+Appium.WebDriver
+group Test
+Expecto
+Expecto.PerfUtil
+Expecto.FsCheck
